@@ -40,7 +40,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 While building the app, I encountered the problem that image view did not work in Home tab even though everything else was displayed fine.
-That was caused by 'Cleartext HTTP traffic not permitted' error, and I fixed that by adding 'android:usesCleartextTraffic="true"' in AndroidManifest.xml.
+It was caused by 'Cleartext HTTP traffic not permitted' error, and I fixed it by adding 'android:usesCleartextTraffic="true"' in AndroidManifest.xml.
 
 ## Open-source libraries used
 
